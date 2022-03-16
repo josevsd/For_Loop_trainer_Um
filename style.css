@@ -1,0 +1,25 @@
+body{
+    background-color: lightgreen;
+}
+.botao{
+    border-color: #14fff1;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: #14fff1;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.input_disigner{
+    border: 2px solid lightblue;
+    border-radius: 4px;
+    margin: 8px 0;
+    text-align: left;
+    outline: none;
+    padding: 4px;
+    box-sizing: border-box;
+    transition: .3s;
+}
